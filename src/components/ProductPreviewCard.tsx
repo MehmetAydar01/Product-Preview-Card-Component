@@ -17,7 +17,7 @@ function ProductPreviewCard() {
         <img
           src={ProductDesktopImg}
           alt='product image'
-          className='hidden sm:inline-block rounded-tl-xl rounded-bl-xl object-cover h-full'
+          className='hidden sm:inline-block rounded-l-xl object-cover h-full'
         />
 
         {/* Küçük ekranlarda gösterilecek resim */}
