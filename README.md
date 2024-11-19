@@ -4,7 +4,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Link
 
-- **Live Site URL: [Product Preview Card Component]()**
+- **Live Site URL: [Product Preview Card Component](https://product-preview-card-qx.netlify.app/)**
 
 ### Built with
 
