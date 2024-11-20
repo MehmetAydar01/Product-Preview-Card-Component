@@ -12,6 +12,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - **Tailwind Css**
 - **Flexbox**
 - **Grid**
-- **Desktop-first workflow**
+- **Mobile-first workflow**
 - **[React](https://reactjs.org/) - JS library**
 - **[Shadcn/Ui](https://ui.shadcn.com/) - For styles**
